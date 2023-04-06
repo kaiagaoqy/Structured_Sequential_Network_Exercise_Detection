@@ -1,0 +1,2 @@
+model_checkpoint_path: "ssn_model_without_backbone.ckpt-1"
+all_model_checkpoint_paths: "ssn_model_without_backbone.ckpt-1"
